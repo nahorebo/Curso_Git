@@ -1,0 +1,99 @@
+    1  git --global mviktor21 "mviktor21"
+    2  git --global mviktor21 "Victor Martinez"
+    3  git config --global mviktor21 "mviktor21"
+    4  git config --global mviktor21 "Victor Martinez"
+    5  git config --global user.name "mviktor21"
+    6  git config --global user.email "mar21110@byui.edu"
+    7  touch test.txt
+    8  git add .
+    9  exit
+   10  ls
+   11  clear
+   12  git config --global user.name ´Nahomi Rebolledo´
+   13  git config --global user.name ´nahorebo´
+   14  git config --global --replace-all ´nahorebo´
+   15  git config --replace-all ´nahorebo´
+   16  git config --replace-all ´nahorebo´
+   17  git config --replace-all user.name ´nahorebo´
+   18  clear
+   19  git config --global user.name ´nahorebo´
+   20  git config regexp
+   21  git config regexp --replace-all user.name ´naho rebo´
+   22  git config --get-regexp name-regex [naho rebo]
+   23  clear
+   24  git config --global user.name "naho rebo"
+   25  git config --replace-all
+   26  git config --add user.name 'naho rebo'
+   27  git.reset
+   28  git_reset
+   29  cleat
+   30  clear
+   31  git config --local user.name "<nahorebo>" --replace-all
+   32  ls
+   33  git config user.name
+   34   git config user.name "<nahorebo>" --replace-all
+   35   git config --global user.name "<nahorebo>" --replace-all
+   36  git config user.name
+   37   git config --global user.name 'nahorebo' --replace-all
+   38  git config --global user.email 'vicnomi11@gmail.com'
+   39  git config user.name
+   40  cd Desktop
+   41  cd Desktop/
+   42  cd Desktop
+   43  dir
+   44  ls
+   45  mls
+   46  ls
+   47  clear
+   48  cd C/
+   49  cd Users
+   50  cd naho_
+   51  cd Desktop
+   52  mdkir Curso Git
+   53  mkdir Curso Git
+   54  cd Curso Git
+   55  cd Curso_Git
+   56  mkdir Curso_Git
+   57  cd Curso_Git
+   58  git config user.name
+   59  git init
+   60  git status
+   61  echo '#aprendendo usar o git > readme.md
+git status
+clear
+cls
+stop
+ls
+echo '#aprendendo usar o git > readme.md
+   62  git status
+   63  git add readme.md
+   64  git add readme.md
+   65  git status
+   66  git comit -m 'Commit inicial'
+   67  git commit -m 'Commit inicial'
+   68  git status
+   69  echo '#aula 1 >>readme.md
+echo '#aula 1' >> readme.md
+echo '#aula 1 >>readme.md
+   70  echo '#aula 1' >> readme.md
+   71  git status
+   72  echo 'nahorebo' > participantes.txt
+   73  git status
+   74  git add.
+   75  git status
+   76  git add .
+   77  git add.
+   78  git --add.
+   79  git status
+   80  git restore --staged participantes.txt
+   81  git status
+   82  git add participantes.txt
+   83  git status
+   84  git restore --staged .
+   85  git status
+   86  git commit -am 'Alteração no readme'
+   87  git status
+   88  git add participantes.txt
+   89  git status
+   90  git commit -m 'Adicionado participantes.txt'
+   91  history > Aula_3.txt

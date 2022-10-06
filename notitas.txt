@@ -1,0 +1,1 @@
+como cambiar el nombre cuando erro git config --global user.name "nome" --replace-all
